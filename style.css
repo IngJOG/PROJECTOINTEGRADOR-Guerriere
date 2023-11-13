@@ -1,0 +1,100 @@
+section {
+    min-height: 60vh;
+    background-color: #1f8a70;
+  }
+  
+  header {
+    height: 20vh;
+  }
+  
+  header h1 {
+    background-color: #00425a;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar a {
+    padding: 1rem;
+  }
+  
+  #hero {
+    background-image: url(./multimedia/Esacuela.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+  }
+  
+  #hero p {
+    max-width: 60%;
+  }
+  
+
+#shop {  background-image: url(./multimedia/Esacuela.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #181818;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+#about {  background-image: url(./multimedia/Esacuela.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #181818;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+
+  .hero-btn {
+    background-color: darkgoldenrod;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  .card-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .card img {
+    width: 150px;
+    height:150px; 
+
+  }
+  
+  .card {
+    width: 200px;
+    margin: 1rem;
+    text-align: center;
+    border: 2px solid #181818;
+    
+
+  }
+
+  footer section{
+    background-color: #fc7300;
+  
+  }
+
